@@ -219,7 +219,7 @@ Learning  : DevOps, RAG, Agent Systems
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/mekyrus/mekyrus/output/github-contribution-grid-snake-dark.svg)
+<!-- Snake animation requires GitHub Action setup - coming soon! -->
 
 <br/>
 
