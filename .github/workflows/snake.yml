@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Generate snake SVG
-        uses: PlatYphd/github-contribution-grid-snake@v2
+        uses: ryo-ma/github-snake@v2
         with:
           github_user_name: mekyrus
           output: github-contribution-grid-snake-dark.svg
