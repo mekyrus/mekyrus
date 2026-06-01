@@ -189,104 +189,6 @@ Learning  : DevOps, RAG, Agent Systems
 ---
 
 <div align="center">
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
-
----
-
-<h3>📈 My Grinds</h3>
-
-<div align="center">
-
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00?style=for-the-badge&logo=CodeChef&logoColor=white)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-
-<div align="center">
-<a href="https://github.com/kawarimidoll/typograssy">
-<img alt="typograssy" src="https://typograssy.deno.dev/api?text=mekyrus+%E2%80%94+sees+beyond&l0=000000&l1=ffffff&l2=aaaaaa&l3=555555&l4=222222&bg=000000&frame=333333&speed=120"/>
-</a>
-</div>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
-
----
-
-<h3>🔥 Statistics</h3>
-
-<div align="center">
-
-<!-- Snake animation requires GitHub Action setup - coming soon! -->
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mekyrus&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=aaaaaa&text_color=888888&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mekyrus&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&sideNums=ffffff&currStreakNum=ffffff" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekyrus&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&include_all_commits=true&count_private=true" width="42%"/>
-
-<br/>
-
-[![mekyrus activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mekyrus&bg_color=000000&color=cccccc&line=333333&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mekyrus&theme=github_dark" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mekyrus&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mekyrus&theme=github_dark" width="48%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mekyrus&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mekyrus&theme=github_dark" width="48%"/>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
-
----
-
-<div align="center">
-
-<h3>🏆 GitHub Trophies</h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mekyrus&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?theme=dark&bg_color=000000"/>
-
-<br/><br/>
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="240"/>
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=200&size=24&duration=3000&pause=740&color=444444&center=true&width=868&height=60&lines=code+is+never+finished.;every+commit+is+an+apology.;the+real+shift+happens+when+you+see+as+they+are." alt="Typing SVG"/>
-</a>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
-
----
-
-<div align="center">
 
 <h3>📡 Connect</h3>
 
@@ -295,8 +197,6 @@ Learning  : DevOps, RAG, Agent Systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mekyrus)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mekyrus)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mekyrus)
-
-<br/>
 
 <br/><br/>
 
