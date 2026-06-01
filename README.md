@@ -192,7 +192,7 @@ Learning  : DevOps, RAG, Agent Systems
 
 <div align="center">
 
-<img src="assets/aurora.jpg" width="200" height="200" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/mekyrus/mekyrus/main/assets/aurora.jpg" width="200" height="200" style="border-radius: 50%;"/>
 
 <br/><br/>
 
