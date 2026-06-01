@@ -1,0 +1,28 @@
+name: GitHub Profile Summary Cards
+
+on:
+  # Run daily at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Run on push to main/master
+  push:
+    branches:
+      - main
+      - master
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: mekyrus
+          UTC_OFFSET: 0
