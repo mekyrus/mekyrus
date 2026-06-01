@@ -188,27 +188,45 @@ Learning  : DevOps, RAG, Agent Systems
 
 ---
 
-## 📬 Contact Me
+<h2 align="center"> 🇨🇴🇳🇹🇦🇨🇹 🇲🇪 </h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mekyrus/mekyrus/main/assets/aurora.jpg" 
+    align="left" 
+    width="300" 
+    height="auto">
+</div>
+<br>
+
+<p align="center">
+  Feel free to reach out ૮๑•̀ㅁ•́ฅა
+  <br>
+  Just poke me again if I forget to reply ( ´ㅁ` ; )
+  <br>
+  <br>
+  ❀˚✿˖°❀˖°✿˖❀˖°
+  <br>
+</p>
+
+<p align="center">
+<a href="mailto:your@email.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
+</a>
+<a href="https://instagram.com/mekyrus" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
+</a>
+<a href="https://github.com/mekyrus" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=f9e0ea" alt="GitHub Badge"/>
+</a>
+<a href="https://linkedin.com/in/mekyrus" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn Badge"/>
+</a>
+<a href="https://x.com/mekyrus" target="_blank">
+  <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=000000&logoSize=auto&labelColor=f9e0ea" alt="X Badge"/>
+</a>
+</p>
+<br>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/mekyrus/mekyrus/main/assets/aurora.jpg" width="200" height="200" style="border-radius: 50%;"/>
-
-<br/><br/>
-
-Feel free to reach out ૮๑•̀ㅁ•́ฅა
-
-Just poke me again if I forget to reply (´ㅁ` ; )
-
-❀˚✿˖°❀˖°✿˖❀˖°
-
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mekyrus)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mekyrus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mekyrus)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mekyrus)
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:000000,50:0d0d0d,100:000000"/>
 
