@@ -188,15 +188,76 @@ Learning  : DevOps, RAG, Agent Systems
 
 ---
 
+## 📊 This Week I Spent My Time On
+
 <div align="center">
 
-<h3>📡 Connect</h3>
+💬 **Programming Languages**:
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mekyrus)
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mekyrus)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mekyrus)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mekyrus)
+Language | Time | Bar
+---|---|---
+Python | 4 hrs 32 mins | █████████████░░░░░░░░░░ 38.42%
+JavaScript | 2 hrs 18 mins | ██████░░░░░░░░░░░░░░░░ 19.54%
+TypeScript | 1 hr 54 mins | █████░░░░░░░░░░░░░░░░░ 16.14%
+Markdown | 1 hr 12 mins | ███░░░░░░░░░░░░░░░░░░░ 10.19%
+Bash | 48 mins | ██░░░░░░░░░░░░░░░░░░░░░ 6.79%
+
+🐱💻 **Projects**:
+
+Project | Time | Bar
+---|---|---
+RAG Pipeline | 5 hrs 14 mins | ██████████████░░░░░░░░ 44.51%
+Server Infra | 2 hrs 42 mins | ███████░░░░░░░░░░░░░░ 22.97%
+Agent Systems | 1 hr 38 mins | ████░░░░░░░░░░░░░░░░░ 13.87%
+LeetCode | 52 mins | ██░░░░░░░░░░░░░░░░░░░░░ 7.37%
+Open Source | 44 mins | █░░░░░░░░░░░░░░░░░░░░░ 6.23%
+
+📅 **I'm Most Productive on**:
+
+| Day | Commits | Percentage |
+|-----|---------|------------|
+| Monday | 🔲🔲🔲🔲 | 14.32% |
+| Tuesday | 🔲🔲🔲🔲🔲🔲🔲 | 24.48% |
+| Wednesday | 🔲🔲🔲🔲🔲 | 17.21% |
+| **Thursday** | 🔲🔲🔲🔲🔲🔲🔲🔲 | **29.43%** |
+| Friday | 🔲🔲🔲🔲🔲 | 13.80% |
+| Saturday | 🔲 | 3.56% |
+| Sunday | 🔲🔲 | 7.20% |
+
+⏰ **Time of Day**:
+
+| Time | Commits |
+|------|--------|
+| 🌞 Morning (6AM-12PM) | 22.92% |
+| 🌆 Daytime (12PM-6PM) | 50.52% |
+| 🌃 Evening (6PM-12AM) | 19.01% |
+| 🌙 Night (12AM-6AM) | 7.55% |
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+<img src="assets/aurora.jpg" width="200" height="200" style="border-radius: 50%;"/>
+
+<br/><br/>
+
+Feel free to reach out ૮๑•̀ㅁ•́ฅა
+
+Just poke me again if I forget to reply (´ㅁ` ; )
+
+❀˚✿˖°❀˖°✿˖❀˖°
+
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mekyrus)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mekyrus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mekyrus)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mekyrus)
 
 <br/><br/>
 
