@@ -23,11 +23,6 @@
 
 ---
 
-<div align="center">
-<a href="https://github.com/marketplace/actions/update-image-readme">
-<img src="https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Eta.jpg" width="97%" align="center" alt="eminence in shadow eta"/>
-</a>
-</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
@@ -269,10 +264,6 @@ Learning  : DevOps, RAG, Agent Systems
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
-
-<br/><br/>
-
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="240"/>
 
 <br/><br/>
@@ -298,12 +289,6 @@ Learning  : DevOps, RAG, Agent Systems
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mekyrus)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mekyrus&color=ffffff&style=flat-square&label=PROFILE+VIEWS)
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
 
 <br/><br/>
 
